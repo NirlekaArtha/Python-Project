@@ -15,7 +15,7 @@ and carelessly it may attract some attention due to a drastic changes of colors 
    So how do i manage to hide it seemlessly? the trick is i hide the message in the last 2 digit of binary
 in every single color channels. For example, i have a representation of message data and a pixel channel in binary.
 
-**Before insertion**
+(Before insertion)
 
 10011011 --> the message
 
